@@ -1,0 +1,15 @@
+{
+    "en": {
+      "greeting": "Hello",
+      "intro": "Welcome to our application"
+    },
+    "mr": {
+      "greeting": "नमस्कार",
+      "intro": "आमच्या अनुप्रयोगात स्वागत आहे"
+    },
+    "hi": {
+      "greeting": "नमस्ते",
+      "intro": "हमारे एप्लिकेशन में आपका स्वागत है"
+    }
+  }
+  
